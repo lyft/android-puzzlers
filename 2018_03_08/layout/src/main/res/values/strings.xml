@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="foo">foo</string>
+    <string name="bar">bar</string>
+    <string name="qux">qux</string>
+    <string name="request_layout">Request Layout</string>
+</resources>
