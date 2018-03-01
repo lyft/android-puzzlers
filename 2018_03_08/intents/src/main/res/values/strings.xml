@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="send_name_joe">Send NAME=Joe</string>
+</resources>

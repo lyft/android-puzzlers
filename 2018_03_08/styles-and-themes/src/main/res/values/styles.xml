@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.MyCustomView" parent="android:Widget">
+        <item name="backgroundColor">@color/green</item>
+    </style>
+
+    <style name="Widget.DefaultCustomView" parent="android:Widget">
+        <item name="backgroundColor">?attr/colorPrimary</item>
+    </style>
+
+</resources>
