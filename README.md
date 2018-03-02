@@ -1,5 +1,7 @@
 # Android Puzzlers!
 
+![Puzzler Logo](banner.png)
+
 ## What is this
 
 This is a small set of Android puzzlers (code that is tricky, or may not work as you expect it to)
